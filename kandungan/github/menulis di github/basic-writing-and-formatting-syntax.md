@@ -122,9 +122,9 @@ To order your list, precede each line with a number.
 
 #### Nested Lists
 
-You can create a nested list by indenting one or more list items below another item.
-
-To create a nested list using the web editor on {% data variables.product.product_name %} or a text editor that uses a monospaced font, like [Atom](https://atom.io/), you can align your list visually. Type space characters in front of your nested list item, until the list marker character (`-` or `*`) lies directly below the first character of the text in the item above it.
+Anda dapat membuat daftar bertingkat dengan membuat indentasi satu atau lebih item daftar di bawah item lain.
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+Untuk membuat daftar bertingkat menggunakan editor web di {% data variable.product.product_name%} atau editor teks yang menggunakan font monospace, seperti [Atom] (https://atom.io/) , Anda dapat menyelaraskan daftar Anda secara visual. Ketik karakter ruang di depan daftar item yang bersarang, hingga karakter daftar penanda ( `-` atau ` * ` ) kebohongan langsung di bawah karakter pertama dari teks dalam item di atas itu.
 
 ```markdown
 1. First list item
